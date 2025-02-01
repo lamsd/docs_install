@@ -99,3 +99,5 @@ I recommend to use 11.7, while 12.1 is too new:
   * https://pytorch.org/get-started/locally/
 * Previous PyTorch Versions | PyTorch
   * https://pytorch.org/get-started/previous-versions/
+
+ https://www.gpu-mart.com/blog/Installing-pytorch-with-cuda-support-on-Windows
