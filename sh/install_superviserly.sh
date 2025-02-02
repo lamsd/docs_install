@@ -23,8 +23,8 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 
 echo "Cloning the Supervisely repository..."
-git clone https://github.com/supervisely/supervisely.git
-cd supervisely
+# git clone https://github.com/supervisely/supervisely.git
+# cd supervisely
 
 # Assume .env file exists and is configured correctly or set up environment variables here
 
