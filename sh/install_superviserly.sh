@@ -29,6 +29,6 @@ cd supervisely
 # Assume .env file exists and is configured correctly or set up environment variables here
 
 echo "Running Docker Compose..."
-docker-compose up -d
+docker pull supervisely/base-py-sdk:6.33.0
 
 echo "Supervisely should now be running. Check the IP and port to confirm installation."
